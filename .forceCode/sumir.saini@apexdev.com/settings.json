@@ -1,5 +1,5 @@
 {
-    "apiVersion": "43.0",
+    "apiVersion": "44.0",
     "autoRefresh": false,
     "browser": "Google Chrome Canary",
     "checkForFileChanges": true,
