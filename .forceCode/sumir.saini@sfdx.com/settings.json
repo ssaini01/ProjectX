@@ -16,8 +16,6 @@
         "testLevel": "NoTestRun"
     },
     "maxFileChangeNotifications": 15,
-    "maxQueryHistory": 10,
-    "maxQueryResultsPerPage": 250,
     "outputQueriesAsCSV": false,
     "overwritePackageXML": false,
     "poll": 1500,
@@ -32,6 +30,6 @@
     "src": "src",
     "staticResourceCacheControl": "Private",
     "url": "https://login.salesforce.com",
-    "username": "sumir.saini@apexdev.com",
+    "username": "sumir.saini@sfdx.com",
     "autoCompile": true
 }

@@ -1,0 +1,179 @@
+[
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545176748261,
+            "changeTime": 1545176748261,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545176748261,
+            "changeTime": 1545176748261,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1545253942348,
+            "changeTime": 1545253942348,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1545176748261,
+            "changeTime": 1545176748261,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1545253172940,
+            "changeTime": 1545253172940,
+            "contentHash": "db509c21089d9dff4a8b9eba345b825d1bf10e7f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity/fields/SFDX__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity/fields/SFDX__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1545253942324,
+            "changeTime": 1545253942324,
+            "contentHash": "4d5e4dad4b24b2b5f491eb732b2c7e0dc0053dca"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7252,
+            "modifiedTime": 1545253942334,
+            "changeTime": 1545253942334,
+            "contentHash": "1aae3cac1ff29ef845fcbbe09c584fc5ff5fb284"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17107,
+            "modifiedTime": 1545253942354,
+            "changeTime": 1545253942354,
+            "contentHash": "ed19dd99d4bc5be05132f2e1e86639686d66f4d9"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545253942324,
+            "changeTime": 1545253942324,
+            "contentHash": "10272d6b267598cea5d46bd09910b2fd4c16b25c"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545253942322,
+            "changeTime": 1545253942322,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545253942322,
+            "changeTime": 1545253942322,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545253942333,
+            "changeTime": 1545253942333,
+            "contentHash": "c83f1c4aa44f1766807f369fff1991fe455fd2f2"
+        }
+    ],
+    [
+        "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sumir.saini/Desktop/ApexDev/projectx/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545253942354,
+            "changeTime": 1545253942354,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
